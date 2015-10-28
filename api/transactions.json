@@ -1,0 +1,20 @@
+[
+    {
+        "Date": "10/18",
+        "Deposit": "100",
+        "Withdrawal": "0",
+        "Balance": "100"
+    },
+    {
+        "Date": "10/28",
+        "Deposit": "150",
+        "Withdrawal": "10",
+        "Balance": "800"
+    },
+    {
+        "Date": "10/30",
+        "Deposit": "250",
+        "Withdrawal": "110",
+        "Balance": "200"
+    }
+]

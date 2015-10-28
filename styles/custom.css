@@ -1,0 +1,36 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.offset-top-1 { margin-top:10px;}
+.offset-top-2 { margin-top:20px;}
+.offset-top-3 { margin-top:30px;}
+.offset-top-4 { margin-top:40px;}
+.offset-top-5 { margin-top:50px;}
+.offset-top-6 { margin-top:60px;}
+.offset-top-7 { margin-top:70px;}
+.offset-top-8 { margin-top:80px;}
+.offset-top-9 { margin-top:90px;}
+.offset-top-10 { margin-top:100px;}
+
+.center {text-align:center;}
+.left {text-align:left;}
+.right {text-align:right;}
+
+
+.table-head {
+	font-weight:bold;
+}
+
+.clear {
+	clear:both;}
+
+.account-balance {
+	font-size:26px;}
+	
+.inputLabel {
+	font-weight:bold;
+	font-size:24px;}
+	
+.error {
+	background-color:#FFC2C3;
+	}	
