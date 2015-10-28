@@ -87,7 +87,7 @@ var TranferStatement = React.createClass({
     return (
       <div className="col-md-12 offset-top-2">
 	 
-	  <div className="row account-balance center">Current Balance ${this.state.balance}</div> 
+	  <div className="row account-balance center">Current Balance <div className="currentBalanceNum">${this.state.balance}</div></div> 
 
 <div className="col-md-offset-2">      
 	    <form className="row offset-top-3" onSubmit={this.handleSubmit}>
